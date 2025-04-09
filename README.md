@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi I'm Michelle Zietlow. I'm a computer science teacher.
+
+I received a bachelors in Electrical and Computer Engineering from Valparaiso University. I worked as a Software Engineer at Motorola and then Continental Automotive until 2008. I then started teaching HS. I have taught Computer Science, Math, Engineering and many other classes. I currently only teach Computer Science.
+
+The current classes I teach are
+* Computer Programming
+* AP Computer Science Principles
+* AP Computer Science A
+* Software Engineering
 
 <!--
 **MsZCSTeacher/MsZCSTeacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
