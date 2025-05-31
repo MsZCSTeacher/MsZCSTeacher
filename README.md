@@ -8,6 +8,11 @@ The current classes I teach are
 * AP Computer Science A
 * Software Engineering
 
+
+![alt text](assets/valpochapel.jpg "Logo Title Text 1")
+
+
+
 <!--
 **MsZCSTeacher/MsZCSTeacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
